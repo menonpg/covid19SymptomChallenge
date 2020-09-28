@@ -2,7 +2,7 @@
 
 ## Multivariate Regression of Current and N-day Future-looking Deaths and Cases per Million, per Day, aggregated by US State
 
-[Sage Betko](http://www.github.com/pkla), Rishabh Shetty, Jeff Morgan. Anne Gibbon, [Prahlad G Menon, PhD](http://www.github.com/menonpg) 
+[Sage Betko](http://www.github.com/pkla), Rishabh Shetty, Jeff Morgan. Anne Gibbon, [Prahlad G Menon, PhD](http://www.github.com/menonpg); 
 Carnegie Mellon University; Columbia University; Catholic University of America; Matri Design; University of Pittsburgh [prm44@pitt.edu]
 
 ## Abstract: 
