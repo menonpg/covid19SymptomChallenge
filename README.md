@@ -12,7 +12,7 @@ Scripting included:
 a) ReadCMU_StateWise_COVID19SymptomsSurveyData.ipynb :  This script creates our dataset of daily aggregated CSV files of the COVID-19 Symptom Survey data by US State curated by CMU, joined with daily time-series data on confirmed cases and deaths  from the covidtracking.com project [1,2] 
 b) COVID19_MultivariateModelingAndFeatureSelection.ipynb : This script develops the models that created the results which we report. 
 
-![Results from KNN, SVM and XGBoost regression modeling of DPM and CPM N=0 to N=30 days in future](Result01.png)
+![Results from KNN, SVM and XGBoost regression modeling of DPM and CPM N=0 to N=30 days in future](https://github.com/menonpg/covid19SymptomChallenge/raw/master/Result01.PNG)
 
 Dataset references:
 [1] Symptoms survey data aggregated by state by day: https://cmu.app.box.com/s/ymnmu3i125go4aue0qxosi3rbcae20bj ;
