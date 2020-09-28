@@ -3,6 +3,7 @@
 Multivariate Regression of Current and 7-day Future-looking Deaths and Cases per Million, per Day, aggregated by US State
 
 [Sage Betko](http://www.github.com/pkla), Rishabh Shetty, Jeff Morgan. Anne Gibbon, [Prahlad G Menon, PhD](http://www.github.com/menonpg) 
+
 Carnegie Mellon University; Columbia University; Catholic University of America; Matri Design; University of Pittsburgh [prm44@pitt.edu]
 
 Abstract: We develop a novel analytic approach to modeling current and future COVID-19 risk using the COVID-19 Symptom Survey data aggregated daily by State from CMU, joined with daily time-series data on confirmed cases and deaths  from the covidtracking.com project, in order to augment situational awareness of the outbreak. 
